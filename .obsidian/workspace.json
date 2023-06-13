@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "4b005e3797ef63a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c06a25067dd323a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a466261e1261d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b1cc37ef2236556",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec2fe3a405f7663",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dede57a410d4b97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67f117fbcb03b8de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6166cfc9e2b42aa6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d720994d102da7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c6c0f05f5a8d24b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5417325f6813f9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1657e1534f0feb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/Spring.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "601f7bcaf97daf7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/Spring.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8455dc30745e9563",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "91a16cc88230b61a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Spring.md"
+              }
+            }
+          },
+          {
+            "id": "e0a6c301a7cae050",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": true,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "7a466261e1261d91",
+  "lastOpenFiles": [
+    "Vue/旅行项目.md",
+    "Spring/Spring.md",
+    "code/spring Initial experience.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Vue/Vue3.md",
+    "Vue/Ts_Vue3_CMS项目.md",
+    "Vue/学习Vue3.md",
+    "Spring/SpringMVC.md",
+    "Spring/SSM.md",
+    "Spring/MyBatis.md",
+    "Spring/MyBatis(小册).md",
+    "code/SSM_code.md",
+    "Mybatis笔记.md",
+    "Spring/SpringBoot.md",
+    "默写/MyBatis-默写.md",
+    "默写/Test.md",
+    "Java/Java基础学习.md",
+    "img/MyBatis框架.png",
+    "img/department.xml",
+    "img/mybatis-config 1.xml",
+    "img/mybatis-config.xml",
+    "img/Pasted image 20230528215926.png",
+    "SQL/Oracle.md",
+    "code/Page_Model.md",
+    "JavaWeb/十三、家居网购.md",
+    "code/Declarative transaction.md",
+    "标注块大全.md",
+    "img/Pasted image 20230520113414.png",
+    "img/Pasted image 20230520113315.png",
+    "img/Pasted image 20230518181837.png",
+    "img/Pasted image 20230518175511.png",
+    "img/Pasted image 20230518175358.png",
+    "draw/复杂组件通信-侧边栏折叠控制.excalidraw.md",
+    "draw/多个拦截器执行流程.excalidraw.md",
+    "img/Pasted image 20230515095924.png",
+    "img/Pasted image 20230515094644.png",
+    "img/Pasted image 20230515093352.png",
+    "JavaWeb/未命名.md",
+    "SQL",
+    "JavaWeb/十二、文件上传下载.md",
+    "draw/获取位置信息.excalidraw.md",
+    "scripts/Downloaded",
+    "scripts",
+    "font/YuShengWenRouDuGeiNi-2.ttf",
+    "font/Muyao-Softbrush-2.ttf",
+    "font",
+    "Excalidraw",
+    "canvas/Spring 管理 Bean-IOC.canvas"
+  ]
+}

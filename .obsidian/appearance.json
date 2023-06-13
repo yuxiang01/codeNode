@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrains Mono,Chalkboard SE,Arial",
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "cssTheme": "Things",
+  "textFontFamily": "JetBrains Mono,Chalkboard SE,Arial",
+  "monospaceFontFamily": "JetBrains Mono,Chalkboard SE,Arial",
+  "enabledCssSnippets": [
+    "段落首行缩进",
+    "预览模式优化-空白行-行间距",
+    "yaozhuwa@CSS"
+  ],
+  "translucency": false
+}

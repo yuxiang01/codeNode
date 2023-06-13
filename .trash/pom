@@ -1,0 +1,96 @@
+classDiagram
+direction LR
+class node32
+class node1
+class node10
+class node25
+class node27
+class node31
+class node17
+class node2
+class node9
+class node16
+class node28
+class node0
+class quickstart
+class node4
+class snakeyaml
+class node22
+class node12
+class node29
+class node15
+class node6
+class node20
+class node14
+class node26
+class node21
+class node11
+class node3
+class node13
+class node30
+class node23
+class node24
+class node18
+class node19
+class node5
+
+node10  -->  node32 
+node10  -->  node1 
+node25  -->  node1 
+node25  -->  node10 
+node27  -->  node32 
+node27  -->  node1 
+node27  -->  node10 
+node31  -->  node1 
+node31  -->  node10 
+node2  -->  node4 
+node16  -->  node9 
+node16  -->  node4 
+node28  -->  node0 
+node28  -->  node4 
+quickstart  -->  node21 
+node22  -->  node12 
+node22  -->  node3 
+node12  -->  node3 
+node29  -->  node11 
+node29  -->  node3 
+node15  -->  node29 
+node6  -->  node17 
+node6  -->  snakeyaml 
+node6  -->  node29 
+node6  -->  node15 
+node6  -->  node14 
+node6  -->  node3 
+node20  -->  node10 
+node20  -->  node25 
+node20  -->  node27 
+node20  -->  node31 
+node20  -->  node6 
+node20  -->  node23 
+node14  -->  node2 
+node14  -->  node16 
+node14  -->  node28 
+node26  -->  node17 
+node26  -->  node18 
+node26  -->  node19 
+node26  -->  node5 
+node21  -->  node6 
+node21  -->  node20 
+node21  -->  node26 
+node21  -->  node23 
+node21  -->  node24 
+node11  -->  node22 
+node11  -->  node12 
+node11  -->  node3 
+node11  -->  node13 
+node3  -->  node30 
+node13  -->  node3 
+node23  -->  node12 
+node23  -->  node3 
+node24  -->  node22 
+node24  -->  node12 
+node24  -->  node11 
+node24  -->  node3 
+node24  -->  node13 
+node24  -->  node23 
+node5  -->  node18 
